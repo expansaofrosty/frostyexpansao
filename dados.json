@@ -1599,13 +1599,29 @@
   "hist": [
     {
       "data": "28/04/2026",
-      "loja": "Pitaguari",
-      "tipo": "Contrato",
-      "desc": "Teste AB",
-      "resp": "Vinicius",
-      "prox": "Monitoriar"
+      "loja": "Mossoró",
+      "tipo": "Aprovação",
+      "desc": "Aguardando decisão sobre o ponto",
+      "resp": "Diretoria",
+      "prox": "Assinatura de contrato"
+    },
+    {
+      "data": "28/04/2026",
+      "loja": "Porto Alegre",
+      "tipo": "Aprovação",
+      "desc": "Aguardando decisão sobre o ponto",
+      "resp": "Diretoria",
+      "prox": "Assinatura de contrato"
+    },
+    {
+      "data": "28/04/2026",
+      "loja": "Pacajus II",
+      "tipo": "Obra",
+      "desc": "Aguardando aprovação de retrofit",
+      "resp": "Diretoria",
+      "prox": "Início das obras"
     }
   ],
-  "geradoEm": "28/04/2026, 17:29:08",
+  "geradoEm": "28/04/2026, 17:54:42",
   "arquivo": "EXPANSÃO LOJAS - DASHBOARD.xlsx"
 }
